@@ -10,7 +10,8 @@
     "@testing-library/user-event": "^13.1.9",
     "babel-jest": "^27.0.2",
     "jest": "^27.0.3",
-    "jest-html-reporter": "^3.4.1"
+    "jest-html-reporter": "^3.4.1",
+    "nightwatch": "^3.2.1"
   },
   "scripts": {
     "test": "jest"
